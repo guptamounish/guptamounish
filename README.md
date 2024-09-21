@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, Mounish Gupta Here!!</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptamounish&label=Profile%20views&color=0e75b6&style=flat" alt="guptamounish" /> </p>
 
